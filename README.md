@@ -1,34 +1,28 @@
-#  Locadora de Veículos | Java POO
+# Locadora de Veículos - Java POO
 
-[![Status](https://img.shields.io/badge/Status-Concluído-success)](#)
+**Autor:** Rafael Caires Pires  
+**Curso:** Análise e Desenvolvimento de Sistemas (Senac EAD)  
+**Disciplina:** Programação Orientada a Objetos  
 
-Projeto acadêmico desenvolvido para a disciplina de **Programação Orientada a Objetos** do curso de **Análise e Desenvolvimento de Sistemas**. 
+---
 
-O sistema é uma aplicação simples desenvolvida em Java que simula o cálculo do valor de locação de diferentes tipos de veículos, aplicando os principais pilares da orientação a objetos.
+## Sobre o Projeto
+Projeto acadêmico em console desenvolvido para simular o cálculo do valor de locação de veículos. O programa faz o cálculo automático do valor total da locação fixado em um período de 10 diárias.
 
-## 📚 Conceitos Praticados
+### Tabela de Valores
+- **Carro:** R$ 50,00 por dia
+- **Moto:** R$ 25,00 por dia
 
-Durante o desenvolvimento deste projeto, foram fixados os seguintes fundamentos:
+## Conceitos Aplicados
+O código fonte foi estruturado estritamente para a aplicação prática dos fundamentos de POO exigidos na disciplina, incluindo:
+- Herança (`extends`)
+- Classes e métodos abstratos
+- Encapsulamento com modificador `protected`
+- Sobrescrita de métodos (`@Override`)
+- Uso de construtores e instanciação de objetos
 
-- **Herança** (`extends`)
-- **Classes e Métodos Abstratos**
-- **Modificadores de Acesso** (`protected`)
-- **Polimorfismo e Sobrescrita** (`@Override`)
-- **Construtores**
-- **Instanciação de Objetos**
+## Como Executar
+É necessário ter o Java (JDK) instalado. No terminal, navegue até o diretório contendo os arquivos `.java` e compile o projeto:
 
-## 💼 Regras de Negócio
-
-O programa foi construído para calcular automaticamente o valor total da locação com base em uma simulação de **10 diárias**. A tabela de preços aplicada é a seguinte:
-
-| Tipo de Veículo | Valor da Diária |
-| :--- | :--- |
-| 🚗 **Carro** | R$ 50,00 |
-| 🏍️ **Moto** | R$ 25,00 |
-
-##  Como Executar
-
-1. Certifique-se de ter o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
-2. Clone este repositório ou baixe os arquivos fonte:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+```bash
+javac Main.java
