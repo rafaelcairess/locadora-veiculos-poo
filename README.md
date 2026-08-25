@@ -1,4 +1,4 @@
-# 🚗 Locadora de Veículos | Java POO
+#  Locadora de Veículos | Java POO
 
 [![Java](https://img.shields.io/badge/Java-POO-blue?logo=java)](#)
 [![Status](https://img.shields.io/badge/Status-Concluído-success)](#)
@@ -27,7 +27,7 @@ O programa foi construído para calcular automaticamente o valor total da locaç
 | 🚗 **Carro** | R$ 50,00 |
 | 🏍️ **Moto** | R$ 25,00 |
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Certifique-se de ter o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
 2. Clone este repositório ou baixe os arquivos fonte:
