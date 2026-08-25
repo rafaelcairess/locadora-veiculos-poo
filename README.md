@@ -1,7 +1,7 @@
 ```markdown
 # Locadora de Veículos - Java POO
 
-Projeto acadêmico simples desenvolvido para a disciplina de **Programação Orientada a Objetos** do curso de Análise e Desenvolvimento de Sistemas.
+Projeto acadêmico  desenvolvido para a disciplina de Programação Orientada a Objetos do curso de Análise e Desenvolvimento de Sistemas.
 
 O projeto simula o cálculo do valor de locação de veículos utilizando Java.
 
