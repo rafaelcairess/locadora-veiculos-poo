@@ -1,6 +1,5 @@
 #  Locadora de Veículos | Java POO
 
-[![Java](https://img.shields.io/badge/Java-POO-blue?logo=java)](#)
 [![Status](https://img.shields.io/badge/Status-Concluído-success)](#)
 
 Projeto acadêmico desenvolvido para a disciplina de **Programação Orientada a Objetos** do curso de **Análise e Desenvolvimento de Sistemas**. 
