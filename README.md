@@ -1,7 +1,7 @@
 # Locadora de Veículos - Java POO
 
 **Autor:** Rafael Caires Pires  
-**Curso:** Análise e Desenvolvimento de Sistemas (Senac EAD)  
+**Curso:** Análise e Desenvolvimento de Sistemas
 **Disciplina:** Programação Orientada a Objetos  
 
 ---
